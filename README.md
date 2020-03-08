@@ -22,3 +22,7 @@ _Requerimiento añadido sin ninguna aclaración._
 
 ### 7. Dar click en el lugar del usuario debe decir en qué dirección se encuentra ubicado (Ej.: Calle 18, Carrera 122…)-
 _Requerimiento añadido sin ninguna aclaración._
+
+```
+Desarrollado por Juan sebastian cardona sanchez 
+```
