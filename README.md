@@ -6,7 +6,7 @@
 La App constantemente rastrea mi posición actual y la marca con el simbolo que tiene una "P".
 
 ### 2. La cámara del mapa siempre debe estar centrada en la posición del usuario.
-Para que no fuera molesto este requerimiento cada 10 segundos se actualiza el mapa y se centra en la posición del usuario, asi si el usuario decibe moverse por el mapa puede hacerlo, pero luego de 10 segundos va a nuevamente centrarse en su posición actual.
+Para que no fuera molesto este requerimiento cada 10 segundos se actualiza el mapa y se centra en la posición del usuario, asi si el usuario decide moverse por el mapa puede hacerlo, pero luego de 10 segundos va a nuevamente centrarse en su posición actual.
 
 ### 3. Debe tener un botón que habilite la función de agregar marcadores de lugares.
 Para esta funcionalidad no existe un botón, considere que es mas comodo para el usuario que simplemente le de click donde quiere agregar un marcados y ya.
