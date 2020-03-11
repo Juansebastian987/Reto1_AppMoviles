@@ -1,5 +1,8 @@
 # Reto1_AppMoviles
 
+# ¡AVISO IMPORTANTE!
+## La primera vez que se inicia el programa se demora, por lo que esperar unos segundos a que se ejecute la App.
+
 ## Lista de requerimientos y aclaraciones:
 
 ### 1. Que el mapa siga mi rastro.
